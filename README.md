@@ -1,4 +1,4 @@
-Deployed Link:
+Deployed Link: https://krowd-item-list-manager.netlify.app/
 
 Website Screenshot: 
 
